@@ -23,9 +23,9 @@ body {
     cursor: pointer;
 }
 
-.btn:hover {
+/* .btn:hover {
     transform: scale(1.2);
-}
+} */
 
 .search {
     display: flex;
